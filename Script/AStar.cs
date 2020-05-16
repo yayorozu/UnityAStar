@@ -56,8 +56,6 @@ namespace AStar
 		/// </summary>
 		public List<Vector2Int> Calc(Vector2Int start, Vector2Int goal, bool isDiagonally = false)
 		{
-			Debug.LogError(start);
-			Debug.LogError(goal);
 			foreach (var pair in _map)
 				pair.Value.SetEstimateCost(pair.Key, goal, isDiagonally);
 			
