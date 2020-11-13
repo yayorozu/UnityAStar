@@ -1,0 +1,18 @@
+{
+  "name": "yorozu.astar",
+  "version": "0.0.1",
+  "displayName": "AStar",
+  "description": "AStar Library",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "astar"
+  ],
+  "author": {
+    "name": "Naofumi Yawata",
+    "email": "hatch.tech.eng@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
