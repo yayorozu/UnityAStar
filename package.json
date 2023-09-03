@@ -14,5 +14,12 @@
     "name": "Naofumi Yawata",
     "email": "hatch.tech.eng@gmail.com",
     "url": "https://www.unity3d.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "AStar Sample",
+      "description": "",
+      "path": "Samples~/AStarSample"
+    }
+  ]
 }
